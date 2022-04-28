@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A nerd and FullStack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [SmartContractsMKT](https://github.com/zzzNitro/SCMKT_Back)
-
+- 🔭 I’m currently working on Dicode Group
 - 🌱 I’m currently learning **Solidity, MongoDB and Django**
 
 - 💬 Ask me about **React, Node.js, Python**
