@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
-<h3 align="center">A nerd and FullStack developer from Argentina</h3>
+<h3 align="center">A nerd and software developer from Argentina</h3>
 
 - 🔭 I’m currently working on Dicode Group
 - 🌱 I’m currently learning **Solidity, MongoDB and Django**
