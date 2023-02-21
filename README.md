@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A nerd and software developer from Argentina</h3>
 
-- 🔭 I’m currently working on Dicode Group
+- 🔭 I’m currently working on Santander Tecnología Argentina
 - 🌱 I’m currently learning **Solidity, MongoDB and Django**
 
-- 💬 Ask me about **React, Node.js, Python**
+- 💬 Ask me about **React, Node.js, Python, Maths**
 
 - 📫 How to reach me **emmanuelblackgg@gmail.com**
 
-- ⚡ Fun fact **I can speak three languages, one of them dead :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
